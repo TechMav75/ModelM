@@ -1,0 +1,24 @@
+1391401 keyboard Matrix
+
+       J3.1     J3.2     J3.3     J3.4     J3.5     J3.6     J3.7     J3.8
+J4.1    NC       NC      L-Ctrl    NC       NC       NC      R-Ctrl    NC
+J4.2    NC     L-Shift    NC       NC       NC       NC     R-Shift    NC
+J4.3   Esc      Tab       `~       1        Q        A        Z        NC
+J4.4    NC      Caps      F1       2        W        S        X        NC
+J4.5    F4       F3       F2       3        E        D        C        NC
+J4.6    G        T        5        4        R        F        V        B
+J4.7    F5    Backspace   F9      F10       NC       \|     Enter    Space
+J4.8    H        Y        6        7        U        J        M        N
+J4.9    F6       }]       +=       8        I        K        ,<       NC
+J4.10   NC       F7       F8       9        O        L        .>       NC
+J4.11   '"       {[       -_       0        P        ;        NC       /?
+J4.12   NC       N4      Del      F11       N7       N1    Numlock    Down
+J4.13   N0       N5      Ins      F12       N8       N2       N/     Right
+J4.14   N.       N6      PGUP     PGDN      N9       N3       N*       N-
+J4.15   UP       NC      Home     End       N+    N Enter    Pause    Left
+J4.16  L-Alt     NC       NC    PrtScrn   ScrlLck    NC       NC     R-Alt
+
+J8.1	Num Lock	(Will need a resistor between pin and Teensy)
+J8.2	+5v
+J8.3	Caps Lock	(Will need a resistor between pin and Teensy)
+J8.4	Scroll Lock	(Will need a resistor between pin and Teensy)

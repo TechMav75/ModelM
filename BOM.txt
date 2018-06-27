@@ -1,0 +1,10 @@
+Part			Part Number		QTY	DigiKey Part #
+16pin Trio Mate Conn	6-520315-6		1	6-520315-6-ND
+8pin Trio Mate Conn	5-520315-8		1	5-520315-8-ND
+4pin Trio Mate Conn	5-520315-4		1	A123169-ND
+Spade PCB Conn		4966			1	36-4966-ND
+270ohm 0805 Resistor	CRG0805F270R		3	A126355CT-ND
+Momentary Switch				1
+
+Teensy++ 2.0
+
